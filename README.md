@@ -71,7 +71,7 @@ NOW DISPLAYING FOREIGN AND MALE INDIVIDUALS:
 ```
 
 ## License
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](https://mit-license.org/).
 
 ## Author
 Developed by Andrés Grosso in 2010. Feel free to contribute or suggest improvements!
