@@ -74,7 +74,7 @@ NOW DISPLAYING FOREIGN AND MALE INDIVIDUALS:
 This project is released under the [MIT License](LICENSE).
 
 ## Author
-Developed by [Your Name]. Feel free to contribute or suggest improvements!
+Developed by Andrés Grosso in 2010. Feel free to contribute or suggest improvements!
 
 ---
 🚀 *Happy Coding!*
